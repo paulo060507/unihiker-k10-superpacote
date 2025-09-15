@@ -1,0 +1,1 @@
+print("YOLO placeholder — siga o guia da sua versão para carregar modelo otimizado e rodar inferência.")

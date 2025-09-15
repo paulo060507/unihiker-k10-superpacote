@@ -1,5 +1,9 @@
 opencv-python
+numpy
 qrcode[pil]
-pyzbar
+Pillow
+sounddevice
 websockets
+requests
+pyzbar
 simpleaudio
