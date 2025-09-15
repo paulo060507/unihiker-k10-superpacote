@@ -1,0 +1,10 @@
+name: Feature request
+description: Sugira uma melhoria
+labels: ["enhancement"]
+body:
+  - type: textarea
+    attributes: { label: Problema/motivação }
+  - type: textarea
+    attributes: { label: Proposta }
+  - type: textarea
+    attributes: { label: Alternativas consideradas }

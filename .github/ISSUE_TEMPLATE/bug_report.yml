@@ -1,0 +1,11 @@
+name: Bug report
+description: Reporte um problema
+labels: ["bug"]
+body:
+  - type: textarea
+    attributes: { label: Descrição, description: O que aconteceu? }
+    validations: { required: true }
+  - type: textarea
+    attributes: { label: Reproduzir, value: "1.\n2.\n3.\n" }
+  - type: input
+    attributes: { label: Ambiente/versão }
