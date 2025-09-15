@@ -1,9 +1,1 @@
-opencv-python
-numpy
-qrcode[pil]
-Pillow
-sounddevice
-websockets
-requests
-pyzbar
-simpleaudio
+opencv-python\nnumpy\nqrcode[pil]\nPillow\nsounddevice\nwebsockets\nrequests\npyzbar\nsimpleaudio\n
